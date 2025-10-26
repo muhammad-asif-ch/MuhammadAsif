@@ -2,7 +2,7 @@
 <h1 align="center">Hi 👋, I'm Muhammad Asif</h1>
 <p align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&center=true&vCenter=true&width=550&lines=Future+Data+Scientist;AI+%26+Machine+Learning+Enthusiast;C%2B%2B+%7C+Python+Developer;Lifelong+Learner+%7C+Tech+Explorer;Turning+data+into+insights+%26+solutions">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&center=true&vCenter=true&width=550&lines= Python+Expert;AI+%26+Machine+Learning+Enthusiast;C%2B%2B+%7C+Python+Developer;Lifelong+Learner+%7C+Tech+Explorer;Turning+data+into+insights+%26+solutions">
   </a>
 </p>
 
