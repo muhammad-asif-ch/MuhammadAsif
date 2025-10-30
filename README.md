@@ -58,14 +58,6 @@
 
 ---
 
-### 🧩 Featured Projects
-
-| Project | Description | Tech Stack |
-|----------|--------------|-------------|
-| 🛒 **E-commerce Management System** | CLI-based shopping system with admin panel, product categories, and receipt generation | C++ |
-| 🎮 **Tic Tac Toe AI** | Python game implementing the **Minimax Algorithm** | Python |
-| 🗣️ **Text-to-Speech (TTS) Project** | Converts any given text input into natural-sounding speech using **Python** and **gTTS** | Python |
-| 📊 **Data Analysis Portfolio** *(coming soon)* | Analyzing real-world datasets using **Pandas** & **Matplotlib** | Python |
 
 ---
 
